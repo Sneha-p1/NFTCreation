@@ -1,0 +1,33 @@
+[{
+    "description": "Coding girl", 
+    "external_url": "https://kba.ai", 
+    "image": "https://harlequin-hollow-goldfish-456.mypinata.cloud/ipfs/QmWEPggf8iwXdae6YoPsWcf7Ps65kF3WTQCvtajC9tqK3x", 
+    "name": "Coding Girl",
+    "attributes": [ {
+        "trait_type": "Mouth", 
+        "value": "Surprised"
+      }, 
+      {
+        "trait_type": "Eyes", 
+        "value": "Big"
+      },
+      {
+        "trait_type": "Eyecolor", 
+        "value": "Blue"
+      } ]
+  },
+  {
+    "description": "Coding", 
+    "external_url": "https://kba.ai", 
+    "image": "https://harlequin-hollow-goldfish-456.mypinata.cloud/ipfs/QmTWbcXd2GCfUkSaHS6RsSxDuY6auzrV2Z4ZVgS7ejNdpB", 
+    "name": "Coding",
+    "attributes": [ {
+        "trait_type": "Base", 
+        "value": "Laptop"
+      }, 
+      {
+        "trait_type": "Haircolor", 
+        "value": "Red"
+      } ]
+  }
+]
